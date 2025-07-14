@@ -1,0 +1,25 @@
+{
+  "name": "3jsys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erertertet/3JSys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erertertet/3JSys/issues"
+  },
+  "homepage": "https://github.com/erertertet/3JSys#readme",
+  "description": "",
+  "dependencies": {
+    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4"
+  }
+}
